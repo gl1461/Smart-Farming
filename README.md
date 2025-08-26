@@ -1,6 +1,5 @@
 # Smart-Farming
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.8-blue)](https://www.python.org/)
 
 Utilized various machine learning algorithms to develop a smart farming system, enhancing agricultural efficiency and productivity. Implemented techniques such as crop yield prediction, disease detection, and irrigation optimization using deep learning and IoT sensor data. Developed predictive models using Convolutional Neural Networks (CNN), Support Vector Machines (SVM), etc.
