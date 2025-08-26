@@ -21,19 +21,19 @@ The Smart-Farming project leverages machine learning and IoT technologies to enh
 
 1. Clone the repository:
 
-   \`\`\`bash
+   \`\`\`
    git clone https://github.com/gl1461/Smart-Farming.git
    \`\`\`
 
 2. Navigate to the project directory:
 
-   \`\`\`bash
+   \`\`\`
    cd Smart-Farming
    \`\`\`
 
 3. Install required dependencies:
 
-   \`\`\`bash
+   \`\`\`
    pip install -r requirements.txt
    \`\`\`
 
@@ -41,7 +41,7 @@ The Smart-Farming project leverages machine learning and IoT technologies to enh
 
 Run the main script to start the smart farming system:
 
-\`\`\`bash
+\`\`\`
 python smart_farming.py
 \`\`\`
 
