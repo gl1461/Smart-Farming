@@ -16,7 +16,7 @@ Python, TensorFlow, Keras, Scikit-learn, Pandas, NumPy, OpenCV, Pillow, Arduino,
 ```bash
 git clone https://github.com/gl1461/Smart-Farming.git
 cd Smart-Farming
-pip install -r requirements.txt
+pip install -r requirements_SmartFarming.txt
 ```
 
 ## Usage
